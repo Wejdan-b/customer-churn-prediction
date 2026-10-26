@@ -32,7 +32,7 @@ Python · Pandas · Matplotlib · Seaborn · Scikit-learn · Google Colab
 ### 2. Exploratory Data Analysis
 Followed an **observation → hypothesis → verification** approach to find churn patterns.
 
-![Churn Rate by Contract Type](churn-2.png)
+![Churn Rate by Contract Type](churn-contract.jpg)
 
 ### 3. Data Preparation
 - Dropped `customerID` (no behavioral information).
@@ -55,7 +55,7 @@ Trained a **Logistic Regression** model, chosen for its interpretability. Becaus
 
 Streaming services showed almost no difference in churn (3–4 points).
 
-![Tenure Distribution by Churn](churn-3.png)
+![Tenure Distribution by Churn](churn-tenure.jpg)
 
 ## Model Results
 
