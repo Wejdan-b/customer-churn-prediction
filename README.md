@@ -1,6 +1,5 @@
 Customer Churn Prediction & Data Mining
 
-Open In Colab
 
 An end-to-end data science project that analyzes 7,043 telecom customers to uncover the patterns behind customer churn and builds a model that flags customers who are likely to leave, turning the results into practical retention recommendations.
 
